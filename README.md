@@ -41,6 +41,7 @@ Use the individual files under `.claude/rules/` when you prefer modular rules th
 | `firestore.md` | Model Firestore data intentionally and avoid costly access patterns. |
 | `firebase-security.md` | Enforce authorization in rules and trusted backend code. |
 | `firebase-deployment.md` | Deploy the frontend and FastAPI backend safely and repeatably. |
+| `github-actions-cicd.md` | Build, verify, and deploy through a secure GitHub Actions pipeline. |
 | `testing.md` | Require useful frontend, backend, and security-rule tests. |
 | `errors-observability.md` | Provide safe user errors and actionable operational context. |
 | `secrets-configuration.md` | Separate public configuration from server-side secrets. |
